@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    background:linear-gradient(#91d8f86c, #ff9ac49f);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+.imagem img{
+    display: flex;
+    border-radius: 200px;
+    width: 110px;
+    margin-top: 30px;
+    margin-left: 10px;
+    justify-content:left;
+}
+.subtitulo{
+    display:flex ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:11px;
+    color: rgb(0, 0, 0);
+    margin-left: 5px;
+    margin-top: 5px;
+}
